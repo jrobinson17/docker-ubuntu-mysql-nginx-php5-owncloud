@@ -7,7 +7,7 @@ Clone this repository
 
       git clone git@github.com:jmaciasportela/docker-ubuntu-mysql-nginx-php5-owncloud.git
 
-### Build Imagea
+### Build Image
 You can change the name of the tag, you will use later.
 
       docker build -t "ubuntu_oc_lemp" .
