@@ -10,7 +10,7 @@ sleep 5
 
 # Creating the password
 
-DB_ROOT_PASS=${DB_REMOTE_ROOT_PASS:-"owncloud"}
+DB_ROOT_PASS=${DB_REMOTE_ROOT_PASS:-"marika"}
 DB_ROOT_USER='root'
 
 # Update root user with new password
